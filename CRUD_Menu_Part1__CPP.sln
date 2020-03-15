@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRUD_Menu_Part1__CPP", "CRUD_Menu_Part1__CPP.vcxproj", "{D53E84EA-C7A8-406D-9588-415D753781C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Debug|x64.ActiveCfg = Debug|x64
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Debug|x64.Build.0 = Debug|x64
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Debug|x86.Build.0 = Debug|Win32
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Release|x64.ActiveCfg = Release|x64
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Release|x64.Build.0 = Release|x64
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Release|x86.ActiveCfg = Release|Win32
+		{D53E84EA-C7A8-406D-9588-415D753781C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD33E97-CD70-423D-891D-A7002B2E5B6F}
+	EndGlobalSection
+EndGlobal
